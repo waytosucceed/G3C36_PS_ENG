@@ -1,0 +1,250 @@
+{
+  "heading": "Synonyms",
+  "topics": [
+    {
+      "heading": "Synonyms",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is a synonym for \"loved\"?",
+          "options": [
+            { "text": "Hated" },
+            { "text": "Adored" },
+            { "text": "Ignored" },
+            { "text": "Forgot" }
+          ],
+          "answer": 1,
+          "explanation": "\"Adored\" means to love very much, just like \"loved\" does. They have the same meaning but are different words."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word means the same as \"enjoyed\"?",
+          "options": [
+            { "text": "Disliked" },
+            { "text": "Bored" },
+            { "text": "Liked" },
+            { "text": "Upset" }
+          ],
+          "answer": 2,
+          "explanation": "\"Liked\" means to find something pleasant or enjoyable, just like \"enjoyed\" does. They are synonyms."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word is a synonym for \"noticed\"?",
+          "options": [
+            { "text": "Ignored" },
+            { "text": "Missed" },
+            { "text": "Spotted" },
+            { "text": "Forgot" }
+          ],
+          "answer": 2,
+          "explanation": "\"Spotted\" means to see or notice something. It's a synonym for \"noticed\"."
+        },
+        {
+          "questionNo": 4,
+          "question": "What is another word for \"worried\"?",
+          "options": [
+            { "text": "Concerned" },
+            { "text": "Excited" },
+            { "text": "Happy" },
+            { "text": "Calm" }
+          ],
+          "answer": 0,
+          "explanation": "\"Concerned\" means to be worried or anxious about something. It's a synonym for \"worried\"."
+        },
+        {
+          "questionNo": 5,
+          "question": "The dog was running ______ (quickly).",
+          "options": [
+            { "text": "slow" },
+            { "text": "fast" },
+            { "text": "quietly" },
+            { "text": "loudly" }
+          ],
+          "answer": 1,
+          "explanation": "\"Fast\" is a synonym for \"quickly\". Both words describe moving at high speed."
+        },
+        {
+          "questionNo": 6,
+          "question": "The teacher ______ (praised) the students for their hard work.",
+          "options": [
+            { "text": "scolded" },
+            { "text": "ignored" },
+            { "text": "complained" },
+            { "text": "complimented" }
+          ],
+          "answer": 3,
+          "explanation": "\"Complimented\" is a synonym for \"praised\". Both words mean to express approval or admiration."
+        },
+        {
+          "questionNo": 7,
+          "question": "The boy was ______ (scared) of the dark.",
+          "options": [
+            { "text": "brave" },
+            { "text": "happy" },
+            { "text": "afraid" },
+            { "text": "excited" }
+          ],
+          "answer": 2,
+          "explanation": "\"Afraid\" is a synonym for \"scared\". Both words describe feeling fear or being frightened."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which spelling is correct?",
+          "options": [
+            { "text": "beecause" },
+            { "text": "becaus" },
+            { "text": "becouse" },
+            { "text": "because" }
+          ],
+          "answer": 3,
+          "explanation": "\"Because\" is the correct spelling. It's used to introduce a reason or explanation."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word is spelled correctly?",
+          "options": [
+            { "text": "beautifull" },
+            { "text": "beutiful" },
+            { "text": "beautiful" },
+            { "text": "beautyful" }
+          ],
+          "answer": 2,
+          "explanation": "\"Beautiful\" is the correct spelling. It means pleasing the senses or mind aesthetically."
+        },
+        {
+          "questionNo": 10,
+          "question": "The cat is sleeping ______ on the couch.",
+          "options": [
+            { "text": "peacfully" },
+            { "text": "peacefully" },
+            { "text": "peacefly" },
+            { "text": "peacefulley" }
+          ],
+          "answer": 1,
+          "explanation": "\"Peacefully\" is the correct spelling. It means in a calm or tranquil manner."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word means the same as \"enemies\"?",
+          "options": [
+            { "text": "Friends" },
+            { "text": "Allies" },
+            { "text": "Rivals" },
+            { "text": "Partners" }
+          ],
+          "answer": 2,
+          "explanation": "\"Rivals\" is a synonym for \"enemies\". Both words describe people who are opposed or in competition with each other."
+        },
+        {
+          "questionNo": 12,
+          "question": "What's another word for \"help\"?",
+          "options": [
+            { "text": "Hinder" },
+            { "text": "Assist" },
+            { "text": "Bother" },
+            { "text": "Annoy" }
+          ],
+          "answer": 1,
+          "explanation": "\"Assist\" means to help or support someone. It's a synonym for \"help\" and implies giving aid or support."
+        },
+        {
+          "questionNo": 13,
+          "question": "The children were ______ to go to the park.",
+          "options": [
+            { "text": "exited" },
+            { "text": "exsited" },
+            { "text": "excited" },
+            { "text": "excitid" }
+          ],
+          "answer": 2,
+          "explanation": "\"Excited\" is the correct spelling. It means very enthusiastic and eager."
+        },
+        {
+          "questionNo": 14,
+          "question": "Fill in the blank: Sarah ______ (believed) she could finish her homework before dinner.",
+          "options": [
+            { "text": "spoke" },
+            { "text": "said" },
+            { "text": "thought" },
+            { "text": "yelled" }
+          ],
+          "answer": 2,
+          "explanation": "\"Thought\" in this sentence means Sarah believed or had the idea that she could finish her homework. It's used to express an internal belief."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which word means the same as \"argue\"?",
+          "options": [
+            { "text": "Agree" },
+            { "text": "Whisper" },
+            { "text": "Laugh" },
+            { "text": "Debate" }
+          ],
+          "answer": 3,
+          "explanation": "\"Debate\" is a synonym for \"argue\". Both words mean to discuss or express different opinions about something."
+        },
+        {
+          "questionNo": 16,
+          "question": "Fill in the blank: The children ______ (liked) playing in the park.",
+          "options": [
+            { "text": "hated" },
+            { "text": "disliked" },
+            { "text": "enjoyed" },
+            { "text": "ignored" }
+          ],
+          "answer": 2,
+          "explanation": "\"Enjoyed\" is a synonym for \"liked\". It means the children had fun or took pleasure in playing in the park."
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the word that means the same as “thanked” in this sentence: \"She thanked her friends for the surprise party.\"",
+          "options": [
+            { "text": "Questioned" },
+            { "text": "Enjoyed" },
+            { "text": "Appreciated" },
+            { "text": "Argued" }
+          ],
+          "answer": 2,
+          "explanation": "\"Appreciated\" means to express thanks, which makes it a good synonym for \"thanked\" in this sentence."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word can replace “admired” in this sentence: \"She admired the beautiful sunset\"?",
+          "options": [
+            { "text": "Ignored" },
+            { "text": "Laughed at" },
+            { "text": "Liked" },
+            { "text": "Hated" }
+          ],
+          "answer": 2,
+          "explanation": "\"Admired\" means to really like or appreciate something. \"Liked\" has a similar meaning, making it the correct synonym."
+        },
+        {
+          "questionNo": 19,
+          "question": "What word is a synonym for “grinned” in this sentence: \"He grinned after winning the race\"?",
+          "options": [
+            { "text": "Yelled" },
+            { "text": "Smiled" },
+            { "text": "Jumped" },
+            { "text": "Slept" }
+          ],
+          "answer": 1,
+          "explanation": "\"Grinned\" means to smile widely, so \"smiled\" is a word with a similar meaning."
+        },
+        {
+          "questionNo": 20,
+          "question": "What word can we use instead of “good” in this sentence: \"That was a good cake!\"?",
+          "options": [
+            { "text": "Delicious" },
+            { "text": "Slow" },
+            { "text": "Bad" },
+            { "text": "Quick" }
+          ],
+          "answer": 0,
+          "explanation": "\"Delicious\" is a word that describes something tasting very good, which makes it a suitable word in this context."
+        }
+      ]
+    }
+  ]
+}
